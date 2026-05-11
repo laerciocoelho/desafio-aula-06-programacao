@@ -1,0 +1,24 @@
+{
+  "name": "desafio-aula-06-programacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laerciocoelho/desafio-aula-06-programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/laerciocoelho/desafio-aula-06-programacao/issues"
+  },
+  "homepage": "https://github.com/laerciocoelho/desafio-aula-06-programacao#readme",
+  "dependencies": {
+    "mocha": "^11.7.5"
+  }
+}
